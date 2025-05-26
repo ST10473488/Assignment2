@@ -1,9 +1,9 @@
 # [App Title]
-- **Developer**: [Student Name]
-- **Student Number**: [Your Student Number]
-- **Group**: [Your Group Name or Number]
-- **Course**: [Course Name]
-- **Subject**: [Subject Name]
+- **Developer**: [Lwazi Kutlwano Gumede]
+- **Student Number**: [ST10473488]
+- **Group**: [3]
+- **Course**: []
+- **Subject**: []
 
 ## Links
 - **GitHub Repository**: [Repository URL]
