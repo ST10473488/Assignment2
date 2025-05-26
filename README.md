@@ -7,7 +7,7 @@
 
 ## Links
 - **GitHub Repository**: [https://github.com/ST10473488/Assignment2.git]
-- **YouTube Video**: []
+- **YouTube Video**: [https://youtu.be/r3qCC3o7zw4]
 
 ---
 
