@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-The **[Quiz App]** is a mobile application developed as part of an assignment in the [Course Name] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [The app is basicaly about playing a game which compiles you to answere quiz questions and testing your knowledge].
+The **[Quiz App]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [The app is basicaly about playing a game which compiles you to answere quiz questions and testing your knowledge].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
