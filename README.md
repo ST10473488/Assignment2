@@ -65,10 +65,12 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1](![image](https://github.com/user-attachments/assets/6c4874aa-bf8c-4607-80d8-f68635f9f75d)
+)
 *Caption for screenshot 1: [The home screen of the Quiz App, displaying the main menu with options to start a quiz, view scores, and settings.]*
 
-![Screenshot 2](path_to_screenshot_2.png)
+![Screenshot 2](![image](https://github.com/user-attachments/assets/25aeef52-255a-47eb-9508-ab85aef9bb5c)
+)
 *Caption for screenshot 2: [The quiz question screen showing a multiple-choice question and five answere options.]*
 
 ### Video Demo:
